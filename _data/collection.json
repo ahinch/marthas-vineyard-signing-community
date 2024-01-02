@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Martha's Vineyard Signing Community" ] },
+    "summary": { "en": [ "Oral history interviews with members of the Martha's Vineyard signing community, most of whom are hearing. " ] },
+    "items": [
+    ]
+}
